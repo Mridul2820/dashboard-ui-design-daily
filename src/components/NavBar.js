@@ -40,7 +40,7 @@ const Logo = styled.h1`
 const Options = styled.ul`
     list-style: none;
     display: flex;
-    margin-left: 170px;
+    margin-left: 180px;
 
     li {
         margin: 0 20px;
